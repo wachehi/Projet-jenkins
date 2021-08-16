@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
-RepositorySearchDialogSearchPath=C\:\\Users\\wachehi\\git
+GitRepositoriesView.GitDirectories=E\:\\WORKSPACE_PROJET_CINEMA\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=E\:\\WORKSPACE_PROJET_CINEMA
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
